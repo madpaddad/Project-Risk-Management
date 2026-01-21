@@ -15,3 +15,5 @@ Being able to extract insights from data is crucial, this project will help us t
 **I would like to also hear some insight and study, please feel free to drop some comments and suggestion for better understanding**
 
 **THANK YOU** (◔◡◔)
+
+*You can also checkout this notebook originally on **KAGGLE** too. Link: **https://www.kaggle.com/code/spooktober/project-risk-management***
